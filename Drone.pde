@@ -1,0 +1,3 @@
+class Drone extends Cell {
+  
+}
