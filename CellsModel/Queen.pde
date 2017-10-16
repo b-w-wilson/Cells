@@ -1,0 +1,3 @@
+class Queen extends Cell {
+  
+}
